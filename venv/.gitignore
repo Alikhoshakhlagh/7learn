@@ -17,6 +17,8 @@
 # AWS User-specific
 .idea/**/aws.xml
 
+./venv/CACHEDIR.TAG
+
 # Generated files
 .idea/**/contentModel.xml
 
